@@ -1,3 +1,19 @@
+## Repository Info:
+
+Repository Size: 72.2 MB
+
+Code can be run using Visual Studio Code or Jupyter Notebook.  PgAdmin4 can be used for the SQL search queries.
+
+Given a previously made data set analyzing Covid-19 positivity rates in Bexar County, the data was extracted, transformed with new data, and loaded into a new data base for future use.
+
+![3](Images/3.png)
+
+![4](Images/4.png)
+
+![5](Images/5.png)
+
+![2](Images/2.png)
+
 # ETL Project: Bexar County Covid-19 by the numbers
 
 ## Extract
