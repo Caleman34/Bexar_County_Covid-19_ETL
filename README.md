@@ -20,7 +20,7 @@ Given a previously made data set analyzing Covid-19 positivity rates in Bexar Co
 
 #### We used 2 datasets from the website: https://data.democratandchronicle.com/covid-19-vaccine-tracker/texas/bexar-county/48029/ and The Census Bureau CSV updated. All of our data was based on Bexar county. 
 
-![Images/extract.png](Images/extract.png)
+![Images/extract.png](Images/extract.PNG)
 
 ```python
 # Path to chromedriver
@@ -69,7 +69,7 @@ for td in tds:
 #### Our first steps in cleaning up the datasets involved updating the most recent vaccine information from all Texas counties and transfering it from HTML to Dataframe Pandas. 
 #### We also pulled updated Census Bureau CSV to incorporate updated positive case count numbers in Bexar county
 
-![Images/transform.png](Images/transform.png)
+![Images/transform.png](Images/transform.PNG)
 
 ```python
 # # Use Pandas to scrape data
